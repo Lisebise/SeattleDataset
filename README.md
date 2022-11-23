@@ -24,7 +24,9 @@ The full set of files related to this course are owned by AirBnB, so they are no
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 3 notebooks available here to show case work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
+In addition you can find the datasets the work is based on (calendar.csv, listing.csv, reviews.csv) and the resulting graphs from the analysis.
+The text fil linktoblogpost.txt will show you where to find the coressponding blog post.
 
 ## Results<a name="results"></a>
 
